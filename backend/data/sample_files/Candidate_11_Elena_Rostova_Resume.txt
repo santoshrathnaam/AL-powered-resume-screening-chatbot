@@ -1,0 +1,2 @@
+Elena Rostova | Junior Backend Developer
+B.S. CS Texas A&M. Skills: Java, Spring Boot, SQL, MySQL, Data Structures, Algorithms.

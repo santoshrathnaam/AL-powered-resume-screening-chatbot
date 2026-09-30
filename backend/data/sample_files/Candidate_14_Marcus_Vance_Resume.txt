@@ -1,0 +1,26 @@
+Marcus Vance
+Senior Cloud Software Engineer | Enterprise AWS & Java Specialist
+Email: marcus.vance.cloud@example.com | Phone: +1 555-0114
+
+SUMMARY:
+Accomplished Cloud Software Engineer with 3 years of hands-on experience designing scalable AWS cloud solutions, Dockerized microservices, and Java backend applications. Strong database and REST API proficiency.
+
+EXPERIENCE:
+Cloud Software Engineer at Skyline Infrastructure Labs | 2023 - Present (3 years)
+- Designed and deployed enterprise cloud infrastructure on AWS utilizing EC2, ECS, Lambda, RDS, and S3.
+- Built Java backend microservices and automated infrastructure provisioning via Terraform and Docker.
+- Managed complex MySQL database clusters and high-traffic REST API integrations.
+- Optimized cloud architecture, reducing server latency by 25%.
+
+PROJECTS:
+Project: Serverless Telemetry Aggregator on AWS
+Engineered an event-driven data pipeline using AWS Lambda, S3, and Amazon RDS PostgreSQL, handling over 2M records daily with automated CI/CD deployment via Docker containers.
+
+Project: Enterprise Inventory API Gateway
+Developed high-availability REST APIs in Java with AWS API Gateway and RDS MySQL persistence.
+
+SKILLS:
+Cloud: AWS (EC2, S3, RDS, Lambda, ECS, CloudWatch)
+Languages & Frameworks: Java, SQL, MySQL, REST APIs, Data Structures, Docker, Git, Terraform
+Certifications: AWS Certified Solutions Architect - Associate, AWS Certified Developer
+Education: B.S. in Software Engineering, Purdue University, 2022

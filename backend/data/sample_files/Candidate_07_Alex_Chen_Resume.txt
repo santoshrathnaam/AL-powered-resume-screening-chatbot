@@ -1,0 +1,26 @@
+Alex Chen
+Backend Software Engineer | Java & Spring Boot Specialist
+Email: alex.chen.dev@example.com | Phone: +1 555-0107
+
+SUMMARY:
+Results-driven Software Engineer with 2.5 years of experience developing enterprise backend microservices using Java and Spring Boot. Strong grasp of relational database optimization and RESTful API architecture.
+
+PROFESSIONAL EXPERIENCE:
+Backend Software Engineer at Nexus Financial Systems | 2023 - Present (2.5 years)
+- Developed and deployed high-throughput Java microservices with Spring Boot processing 10,000 transaction events/sec.
+- Designed normalized PostgreSQL database schemas and optimized indexing to reduce query latency by 35%.
+- Implemented robust REST APIs with Spring Security OAuth2 and OpenAPI documentation.
+- Collaborated in an agile squad conducting code reviews and CI/CD releases.
+
+PROJECTS:
+Project: Distributed Order Management Platform
+Architected Java Spring Boot backend with PostgreSQL database and Redis caching, featuring asynchronous REST API communication and transactional integrity.
+
+Project: Algorithmic Trade Analytics Engine
+Implemented custom high-performance data structures and sorting algorithms in Java 17 to analyze market ticks with sub-millisecond latencies.
+
+SKILLS:
+Technical: Java, Spring Boot, SQL, PostgreSQL, REST APIs, Data Structures, Algorithms, Git, Redis
+Certifications: AWS Certified Cloud Practitioner
+Education: B.S. in Computer Science, University of Washington, 2023
+Achievements: ACM ICPC Regional Finalist

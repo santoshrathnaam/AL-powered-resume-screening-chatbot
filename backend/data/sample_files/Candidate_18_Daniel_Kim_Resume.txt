@@ -1,0 +1,3 @@
+Daniel Kim | Software Engineer
+3.5 years experience in enterprise backend systems, Docker containerization, Java, and SQL.
+Skills: Java, SQL, Docker, PostgreSQL, REST APIs, Git. B.E. CS, 2022.

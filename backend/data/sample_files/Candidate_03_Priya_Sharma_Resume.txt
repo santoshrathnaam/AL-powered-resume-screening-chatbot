@@ -1,0 +1,16 @@
+Priya Sharma
+Backend Developer | Java, Spring Boot & Distributed Systems
+Email: priya.sharma@example.com | Phone: +1 555-0103
+
+EXPERIENCE:
+Backend Developer at Apex Data Corp | 2024 - Present (2.0 years)
+- Developed Java and Spring Boot microservices with PostgreSQL backend.
+- Integrated Google Cloud Platform (GCP) storage and created REST API endpoints.
+- Wrote extensive JUnit integration test suites.
+
+PROJECTS:
+Project: Distributed Cache Management System
+Implemented distributed hash tables and caching algorithms in Java with Spring Boot REST endpoints.
+
+SKILLS: Java, Spring Boot, SQL, PostgreSQL, REST APIs, Data Structures, GCP, Git
+Education: M.S. in Computer Science, Georgia Tech, 2023

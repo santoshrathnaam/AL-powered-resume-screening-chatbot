@@ -1,0 +1,2 @@
+Lucas Meyer | Database & Backend Specialist
+Expert in SQL, PostgreSQL, MySQL. Java, REST APIs.

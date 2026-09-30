@@ -1,0 +1,32 @@
+DEMO_JD_TEXT = """Job Title: Software Engineer
+Company: CloudScale Technologies
+Location: Hybrid / Remote
+
+About the Role:
+We are seeking a talented and motivated Software Engineer to join our Core Backend Engineering Team. You will build high-throughput, low-latency microservices, implement distributed architectures, and engineer resilient RESTful APIs.
+
+Core Responsibilities:
+- Design, build, and maintain robust backend microservices in Java and Spring Boot.
+- Implement high-performance SQL database schemas, queries, and optimization strategies.
+- Collaborate with frontend engineers, product managers, and DevOps teams to deliver features.
+- Build and consume REST APIs following industry best practices and OpenAPI standards.
+- Participate in peer code reviews, automated unit testing, and agile sprint ceremonies.
+
+Must-Have / Critical Requirements:
+- Proven experience with Core Java (OOP, multithreading, collections, memory management).
+- Strong command of Spring Boot framework and Spring ecosystem (Spring Data, Spring Security).
+- Solid understanding of Data Structures and Algorithms (DSA) and problem-solving.
+
+Important Requirements:
+- Proficient in SQL and relational database design (PostgreSQL or MySQL).
+- Hands-on experience developing and integrating REST APIs and JSON endpoints.
+- Minimum 2+ years of professional software engineering experience.
+
+Preferred / Nice-to-Have:
+- Exposure to AWS cloud services (EC2, S3, RDS, Lambda).
+- Experience with Docker containerization and CI/CD pipelines (GitHub Actions, Jenkins).
+- Familiarity with distributed caching (Redis) or message brokers (Kafka/RabbitMQ).
+
+Education:
+- Bachelor's Degree in Computer Science, Software Engineering, or equivalent practical experience.
+"""
